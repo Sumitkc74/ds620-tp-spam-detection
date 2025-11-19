@@ -1,4 +1,4 @@
-# DS 620-tp
+# DS 620-TP - SpamAssassin
 Team project for DS620 - Machine Learning/Deep Learning
 
 Team Members - 
